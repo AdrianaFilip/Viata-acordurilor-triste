@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viața acordurilor triste </title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: #cd853f; 
+           font-size: 18px;
+    line-height: 1.6;
+color: white;
+        }
+
+.video-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            z-index: -1;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);;
+            padding: 30px;
+            border-radius: 0;
+            box-shadow: none;
+
+           
+        }
+
+
+
+        h1 {
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            text-align: right;
+            font-size: 18px;
+            font-style: italic;
+            margin-bottom: 20px;
+        }
+
+        p {
+            text-align: left; 
+            font-size: 15px;
+            margin: 20px 0;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        
+    </style>
+</head>
+<body>
+ <video class="video-background" autoplay muted loop>
+        <source src="Viațaacordurilortriste.mp4" type="video/mp4">
+       
+    </video>
+
+ 
+    <div class="overlay"></div>
+
+<div class="container">
+        <h1>Viața acordurilor triste </h1>
+        <h2>de Filip Adriana</h2>    
+
+
+<p>&nbsp;&nbsp;&nbsp;Citeam gazeta cu mâinile tremurânde. Titlul mare era motivul pentru care mi-am trecut ochii peste ziar: „Cincizeci de ani de la încheierea masacrului din Al Doilea Război Mondial!”</p>
+<p>&nbsp;&nbsp;&nbsp;Nu cuvintele îmi întorceau stomacul pe dos, provocându-mi greață, ci imaginile atașate în josul paginii. Fotografii pline de suferință și teroare. Îmi bag ziarul în buzunarul gecii, îndreptându-mi treptat privirea spre pavelele pline de frunze. Înghit în sec, în speranța că de această dată lucrurile vor fi diferite, iar el își va aminti cine sunt. Voiam să îl cunosc și să mă cunoască. Să aflu cine a fost și de ce a ajuns aici. Speram, poate, că, prin el mă voi descoperi și pe mine. Un gând sau, mai degrabă, o speranță prostească, dar care mă ancora să rămân aici și să nu dispar în incertitudinea propriei persoane, propriei vieți. Așa cum a pățit el.</p>
+<p>&nbsp;&nbsp;&nbsp;Vântul sufla tare în ziua de toamnă înorată, prevestind o furtună. O pălărie zboară odată cu frunzele colorate, ajungând la vârfurile pantofilor mei lustruiți. Ridic cu grijă obiectul cu aspect antic, într-un mod elegant și stilat, de culoare neagră și care, pe borurile răsucite era încadrată de o bucată subțire de mătase albă. Îmi îndrept privirea, căutând autorul pălăriei din mâinile mele, om pe care îl găsesc imediat în pustietatea parcului. Un bătrânel scund, ușor cocoșat. Îmbrăcat într-un palton maro, pe dedesubtul căruia se întrezărea un pulover gros, de lână bleu.</p>
+<p>&nbsp;&nbsp;&nbsp;-Mă scuzați, domnișoară! mă întâmpină el înclinându-și capul spre pălăria din mâinile mele.</p>
+<p>&nbsp;&nbsp;&nbsp;Vocea răgușită, probabil victima multor ani de fumat, îi era blândă și obosită. Glas asociat cu un chip bătrân, înrămat de riduri adânci.</p>
+<p>&nbsp;&nbsp;&nbsp;Mă apropii timid de el, dându-mi sfios părul după ureche în bătaia vântului.</p>
+<p>&nbsp;&nbsp;&nbsp;-Ce faceți pe o vreme atât de mohorâtă prin aceste împrejurimi?</p>
+<p>&nbsp;&nbsp;&nbsp;Ezit o clipă, lucru care nu pare să îl deranjeze, apoi îmi dreg vocea:</p>
+<p>&nbsp;&nbsp;&nbsp;-Gânduri, am murmurat, gândurile m-au îndrumat să vin aici și să vorbesc cu cineva de care viitorul meu depinde.</p>
+<p>&nbsp;&nbsp;&nbsp;-Permiteți-mi să vă contrazic, spune amabil. Singura de care viitorul dumneavoastră depinde sunteți chiar dumneavoastră, domnișoară!</p>
+<p>&nbsp;&nbsp;&nbsp;Mă arată cu un deget lung și noduros, zâmbind. Colțurile gurii lui sunt ridate, dându-i aspect de marionetă. După vocabular și comportament, chiar se aseamănă cu un actor dintr-o piesă de teatru.</p>
+<p>&nbsp;&nbsp;&nbsp;-Nu mai cred acest lucru de foarte mult timp. Uneori, spun, ridicând din umeri, nu suntem regizori. Abia dacă ne amintim să zicem replicile.</p>
+<p>&nbsp;&nbsp;&nbsp;Zâmbește blând, de parcă înțelege că sunt în impasul sfârșitului adolescenței. De parcă își amintește cum a fost el în poziția mea, aspect care mă sperie, deoarece pe chipul lui regăsesc o oarecare nostalgie, de parcă tinerețea e o amintire efemeră. O perioadă prea scurtă. Mă încrunt involuntar la gândul că tinerețea va fugi pe lângă mine, iar eu voi ajunge bătrână și dezamăgită de parcursul vieții mele. Dacă nu voi putea sta liniștită pe o bancă purtând aceeași expresie pe chip ca cea a bătrânelului din fața mea? Toate acestea pentru că nu mi-am permis să trăiesc, ci doar m-am scufundat în gânduri și posibilități.</p>
+<p>&nbsp;&nbsp;&nbsp;-Domnișoară?</p>
+<p>&nbsp;&nbsp;&nbsp;Vocea bătrânului mă trezește din visare.</p>
+<p>&nbsp;&nbsp;&nbsp;-Mă scuzați!</p>
+<p>&nbsp;&nbsp;&nbsp;Întind stângaci pălăria, acțiune în urma căreia ziarul cade la picioarele lui. Acesta ridică înainte bucata de hârtie, apoi își așează pălăria cu o eleganță ieșită din comun pe capul încadrat de fire albe. Întoarce gazeta spre prima pagină, al cărei titlu m-a tulburat. Îi urmăream atentă reacția care a trecut în câteva secunde de la uimire la teamă și apoi la tristețe. Înghite în sec, înapoindu-mi ziarul. Cuvintele mi-au pierit pe limbă.</p>
+<p>&nbsp;&nbsp;&nbsp;-Îmi amintesc zielele acelea, șoptește clătinând din cap, eram cam... de vârsta ta.</p>
+<p>&nbsp;&nbsp;&nbsp;Ia o pauză, permițându-mi să aleg dacă vreau să aud povestea. Confuză, mă așez alături de el. Îmi privesc unghiile vopsite în nuanțe pale până când reușesc să dau glas fricii mele:</p>
+<p>&nbsp;&nbsp;&nbsp;-Cum…cum v-ați descurcat? În viață, adică, mă corectez repede bâlbâindu-mă.</p>
+<p>&nbsp;&nbsp;&nbsp;Pufnește încet, apoi se reazemă de spătarul băncii.</p>
+<p>&nbsp;&nbsp;&nbsp;-Nu m-am descurcat.</p>
+<p>&nbsp;&nbsp;&nbsp;Întorc gâtul spre el ca să găsesc o imagine care mă face să trag brus aer în plămâni: un om trist.</p>
+<p>&nbsp;&nbsp;&nbsp;-Dar ați ajuns aici, îngaim. Înseamnă că v-ați descurcat!</p>
+<p>&nbsp;&nbsp;&nbsp;Zâmbește slab.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am ajuns, dacă nu merita, nu ajungeam. Nu-i așa?</p>
+<p>&nbsp;&nbsp;&nbsp;Aprob, pentru că simt dorința de confirmare din tonul lui. Privește în zare când șoptește parcă doar pentru el:</p>
+<p>&nbsp;&nbsp;&nbsp;-Am ajuns aici datorită ei.</p>
+<p>&nbsp;&nbsp;&nbsp;Înghit în sec la auzul tonului plin de dor.</p>
+<p>&nbsp;&nbsp;&nbsp;-Ați iubit-o... - îndrăznesc încet într-un final.</p>
+<p>&nbsp;&nbsp;&nbsp;-Cu certitudine!</p>
+<p>&nbsp;&nbsp;&nbsp;Îl privesc atent, cercetându-i profilul: genele lungi îi ascund ochii mici, albaștri în care regăsesc durere. Așez piesele în capul meu.</p>
+<p>&nbsp;&nbsp;&nbsp;-Apoi ați pierdut-o, șoptesc.</p>
+<p>&nbsp;&nbsp;&nbsp;Oftă, așezându-și paltonul.</p>
+<p>&nbsp;&nbsp;&nbsp;-De ce?</p>
+<p>&nbsp;&nbsp;&nbsp;Glasul îmi sună slab, speriat, și las cuvintele să fie purtate de o altă adiere de vânt. Cuvinte în urma cărora bătrânul a tresărit. Tăcerea s-a prelungit, și știam că nu-mi va răspunde, lucru pentru care nu-l condamnam nicio clipă. Poate am exagerat. Am cerut prea mult de la un bătrân care are pleoapele căzute de la câte lacrimi a vărsat de-a lungul vieții. Nici măcar nu mă cunoaște!</p>
+<p>&nbsp;&nbsp;&nbsp;Mă ridic încet, așezându-mi iar fusta, făcând primii pași spre ieșire.</p>
+<p>&nbsp;&nbsp;&nbsp;-Îmi pare rău...</p>
+<p>&nbsp;&nbsp;&nbsp;Îi arunc o ultimă privire peste umăr, apoi mai fac un pas, îndepărtându-mă.</p>
+<p>&nbsp;&nbsp;&nbsp;-Era specială!</p>
+<p>&nbsp;&nbsp;&nbsp;Vocea lui mă oprește. Mă întorc pe călcâie și îl privesc: urmărea dalele de sub propriile picioare.</p>
+<p>&nbsp;&nbsp;&nbsp;-Era specială în toate felurile în care o persoană poate fi!</p>
+<p>&nbsp;&nbsp;&nbsp;Umerii îmi cad, de parcă purtam o povară copleșitoare. Îmi face semn și mă așez lângă el.</p>
+<p>&nbsp;&nbsp;&nbsp;-Era inteligentă într-un mod deosebit. Era tandră, empatică și... creativă. Mereu atentă la cei din jur și era ambițioasă, mă privește clătinând din cap repede, dar nu în acel fel deranjant, competitiv! Ci în acela care îți inspira perseverență. Înfățișa frumusețea, atât cea interioară, cât și cea exterioară. Înaltă, zveltă, cu bucle aurii și ochii mari, cafenii.</p>
+<p>&nbsp;&nbsp;&nbsp;Se caută agitat în interiorul paltonului, de unde scoate un pandantiv pe care îl deschide și mi-l întinde cu mâinile tremurânde. O fotografie cu doi tineri care păreau în culmea fericirii datorită zâmbetelor largi: o femeie superbă în brațele unui bărbat arătos care pare că a rămas în apusul bătrânului de lângă mine. Dar în care regăsesc trăsături.</p>
+<p>&nbsp;&nbsp;&nbsp;-Era frumoasă! șoptesc uluită</p>
+<p>&nbsp;&nbsp;&nbsp;-Într-adevăr! Și era atât de talentată, spune cu un glas convingător și admirabil, cânta sublim la pian. Melodiile prindeau viață și înfățișau atâtea sentimente în jurul ei! Notele valsau îndrăgostite.</p>
+<p>&nbsp;&nbsp;&nbsp;Îi întind talismanul, întrebând:</p>
+<p>&nbsp;&nbsp;&nbsp;-Cum ați cunoscut-o?</p>
+<p>&nbsp;&nbsp;&nbsp;-Nu cred că am cunoscut-o cu adevărat niciodată! Era... atât de imprevizibilă.</p>
+<p>&nbsp;&nbsp;&nbsp;Zâmbesc.</p>
+<p>&nbsp;&nbsp;&nbsp;-Dar... într-o duminică am primit o scrisoare. Urma să fiu înrolat în armată. Trebuia să merg în război, pufnește clătinându-și capul. Atunci eram atât de tânăr...</p>
+<p>&nbsp;&nbsp;&nbsp;Privesc poza terifiantă din ziar, apoi închid ochii încet. Îl văd pe tânărul care era speriat de incertitudinea vieții, care urma să ia o întorsătură bruscă.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am ieșit pentru ultima dată cu tovarășii mei la un pahar de alcool ieftin. Petreceam înainte de a dispărea în neantul războiului, jertfindu-ne pentru popor. Aspecte care mă încântau. Visam la o moarte eroică. Eram un puști! explică el gesticulând. Nu știam că urma să mor printre alte mii de oameni, că voi fi un simplu nume pe o listă nesfârșită a eroilor amintiți rareori.</p>
+<p>&nbsp;&nbsp;&nbsp;Frunzele zboară în jurul nostru, acoperind suprafața lacului albastru.</p>
+<p>&nbsp;&nbsp;&nbsp;-Exista acel local unde distracția se amestecă cu iubirea. Unde muzica te obliga să dansezi, iar grijile dispar pentru o noapte.</p>
+<p>&nbsp;&nbsp;&nbsp;Zâmbesc la gândul că acum, în ’90, lucrurile nu s-au prea schimbat.</p>
+<p>&nbsp;&nbsp;&nbsp;-Acolo am găsit-o, pe cea care peste timp o cataloghez ca dragostea vieții mele. Ea cânta la pian, de parcă viața ei depindea de acel cântec minunat. Interpreta o melodie rapidă și luminoasă... Zâmbea atât de larg, încât lumina întreaga încăpere. Ochii îi străluceau de fericire.</p>
+<p>&nbsp;&nbsp;&nbsp;Își apleacă încet capul.</p>
+<p>&nbsp;&nbsp;&nbsp;-M-a fascinat de-a dreptul. Poate patosul cu care făcea lumea să se bucure de viață, sau — mai degrabă, se corectează el repede — felul în care a reușit să facă lumea să dispară pentru mine.</p>
+<p>&nbsp;&nbsp;&nbsp;Ascultam tăcută pentru că știam că micile detalii îl fac să amâne o amintire neplăcută.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am urmărit-o întreaga seară, apoi am invitat-o la o discuție. Am petrecut multe ore în micul local, după care am condus-o acasă. Ezitam să ne despărțim, dar când momentul a venit i-am oferit un dar de încheiere. Nu puteam să o las să mă uite și i-am oferit un dans drept amintire.</p>
+<p>&nbsp;&nbsp;&nbsp;-Un dans? mă mir.</p>
+<p>&nbsp;&nbsp;&nbsp;Bătrânelul zâmbește larg.</p>
+<p>&nbsp;&nbsp;&nbsp;-Nu orice dans, un dans fără acorduri muzicale. Singura melodie erau versurile întortocheate pe care mi le aminteam dintr-o melodie auzită la radio, pe care i le fredonam domol.</p>
+<p>&nbsp;&nbsp;&nbsp;Hohotesc și îmi acopăr surâsul cu o palmă.</p>
+<p>&nbsp;&nbsp;&nbsp;-Dansam în acea primă noapte, vegheați de lumina pală a lunii care a fost martorul iubirii noastre. Momentul a fost întrerupt de mama dânsei, care umbla cu lumânarea prin casă, căutând-o. A fugit imediat, cea pe care am socotit-o ca fiind necunoscută, deoarece nu-i știam numele. Am fost atât de distras încât nu am întrebat-o cum o cheamă! râde el.</p>
+<p>&nbsp;&nbsp;&nbsp;Își așează pălăria înainte să continue:</p>
+<p>&nbsp;&nbsp;&nbsp;-Mai aveam o săptămână de petrecut acasă, iar gândul îmi stătea necontenit la blonda misterioasă. Am trecut deseori pe lângă casa ei, dar mereu eram întâmpinat de pustiu. Nu era nimeni în curte, iar geamurile și ușa erau întotdeauna închise. Până...</p>
+<p>&nbsp;&nbsp;&nbsp;Ezită.</p>
+<p>&nbsp;&nbsp;&nbsp;-Până într-o zi. Era mijlocul zilei. Am trecut, ca de obicei, pe la poarta ei, dar am decis să înaintez pe ulița mică. Voiam să mă mai plimb. Gândurile mă purtau pe mine, nu eu pe ele. Și... am zărit-o, frumoasă și zâmbitoare, stătea în fața unei florării cu un... bărbat! Era arătos, iar după haine era desigur înstărit. Avea un buchet de lalele în mâini și atunci cred că inima mi s-a frânt prima oară. Odată cu sărutul pe care i l-a lăsat pe obraz bărbatului.</p>
+<p>&nbsp;&nbsp;&nbsp;Am rămas înghețat, privind-o cum a trecut peste noaptea petrecută împreună. Așadar, m-am întors în localul unde am întâlnit-o, desigur supărat de această dată, unde a apărut în urma mea la câteva ore. M-a zărit degrabă și m-a întâmpinat cu cel mai frumos surâs, căruia nu i-am rezistat. Am dat uitării orice sentiment negativ și am profitat de timpul petrecut cu ea. De ce? Poate că te întrebi. Pentru că uneori inima vorbește în fața rațiunii. Pentru că voiam să profit de timpul pe care îl mai aveam cu ea. Nu puteam să o las să-mi scape printre degete.</p>
+<p>&nbsp;&nbsp;&nbsp;Aprob, cu o înclinare a capului.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am petrecut seara jucând șah, la care s-a dovedit a fi excepțională, și la finalul zilei am condus-o acasă iar. Am aflat că poartă numele Loren și că bărbatul cu care am văzut-o nu era decât un prieten al familiei. Ne-am petrecut restul zilelor împreună. Am descoperit lumea și dragostea prin gesturi și pași mici. Așa cum doar iubirea adevărată înflorește. Iar când a venit timpul... am plecat în război cu inima frântă de despărțirea noastră, dar m-am întors după șase luni.</p>
+<p>&nbsp;&nbsp;&nbsp;Ezită, oftând.</p>
+<p>&nbsp;&nbsp;&nbsp;-M-am întors și am găsit-o pe Loren logodită cu prietenul familiei.</p>
+<p>&nbsp;&nbsp;&nbsp;Icnesc.</p>
+<p>&nbsp;&nbsp;&nbsp;-Pare-mi-se că părinții au condus întreaga acțiune, în ciuda rugăminților ei. I-am înțeles, dânșii aveau dreptate, eu nu aveam ce să-i ofer fiicei lor. Eram un simplu zugrav, aveam un viitor instabil, nu aveam bani și nici o familie înstărită – ai mei erau bucătari în propriul restaurant, dar în perioada războiului, nu aveau profit. Puteam să îi ofer doar inima mea, care, oricum, era deja la ea. Mergeam în ororile războiului, unde puteam muri oricând și s-o las cu o inimă frântă. Am vrut să plec imediat după ce am aflat, dar ea m-a rugat să rămân. A spus că...</p>
+<p>&nbsp;&nbsp;&nbsp;O lacrimă îi curge pe obraz.</p>
+<p>&nbsp;&nbsp;&nbsp;-Mi-a spus pentru prima oară cât mă iubește. Părea devastată de plecarea mea, nu o puteam lăsa.</p>
+<p>&nbsp;&nbsp;&nbsp;Inspir prelung.</p>
+<p>&nbsp;&nbsp;&nbsp;-A fugit de logodnicul ei. Am petrecut trei zile împreună, în urma cărora ne-am jurat iubire veșnică. Ne-am logodit în fața lunii, care ne-a fost martoră, iar apoi am dansat... iar și iar.</p>
+<p>&nbsp;&nbsp;&nbsp;Lacrimi îmi împovăreau pleoapele.</p>
+<p>&nbsp;&nbsp;&nbsp;-M-am întors în război, care era pe sfârșit. În ultima zi, i-am scris într-o scrisoare în care i-am promis că mă întorc acasă și o să o cer părinților ei. Urma să fim binecuvântați să ne căsătorim. Urma să dansăm prin viață! oftează el. Dar viața a ales să ne ofere acorduri triste de vioară, pentru că... mi-am pierdut un rinichi. Am fost prins sub dărâmături în urma unei explozii, iar presiunea mi-a afectat grav mușchii și organele. Toxinele mi s-au eliberat în sânge. Un rinichi a cedat, insuficiență renală acută, spune cu precizie cuvintele care i s-au întipărit în memorie. Unul era deja compromis, iar celălalt nu putea face față. Am căzut la pat pentru luni de zile. Am aflat că urma să mor dacă nu găseam un donator. Eram în ’50, era ca și cum așteptam o minune ca să fiu salvat.</p>
+<p>&nbsp;&nbsp;&nbsp;Îl priveam fix. Scoate o pipă, din care începe să pufăie încet.</p>
+<p>&nbsp;&nbsp;&nbsp;-Loren a aflat târziu, eram secătuit de puteri când m-a vizitat pentru prima și singura dată, dar inima îmi bătea la fel de puternic în preajma ei. Țin minte...</p>
+<p>&nbsp;&nbsp;&nbsp;Vocea îi piere, iar mâinile îi tremură, dar continuă:</p>
+<p>&nbsp;&nbsp;&nbsp;-Țin minte că în ultima noastră discuție plângea, de fericire și de tristețe deopotrivă. Îmi povestea că...</p>
+<p>&nbsp;&nbsp;&nbsp;Varsă o lacrimă bătrânul pe care o șterge cu un gest nervos.</p>
+<p>&nbsp;&nbsp;&nbsp;-... că ai ei ne-au acceptat căsătoria. Urma să dansăm iar și iar fără opuneri. Urma să ne iubim fără perdea. Urma să devin al ei și ea a mea. Să avem copii și să îmbătrânim împreună.</p>
+<p>&nbsp;&nbsp;&nbsp;Închid ochii încet.</p>
+<p>&nbsp;&nbsp;&nbsp;-Plângea când îmi promitea că va fi lângă mine mereu, nu mă va uita și va valsa cu mine totdeauna. Că mă va iubi și îmi va ține mâna. Am închis ochii cu sărutul ei dulce pe buze.</p>
+<p>&nbsp;&nbsp;&nbsp;Își duce degetele tremurânde la gură, de parcă s-ar fi întâmplat acum.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am adormit cu chipul ei în minte și cu promisiunea unei iubiri dincolo de trup și de veșnicie și m-am trezit vindecat. Asistenta m-a anunțat că minunea a apărut. Îngerul cu bucle aurii mi-a salvat viața, dar... și-a pierdut-o pe a ei.</p>
+<p>&nbsp;&nbsp;&nbsp;Izbucnesc, ducând mâna la gură.</p>
+<p>&nbsp;&nbsp;&nbsp;-Nu eram atât de evoluați din punct de vedere medical pe atunci și eram și imediat după război, nu o duceam prea bine. Poate acesta a fost motivul morții ei, dar nu mi-a fost de ajuns. Nu știam cum să trăiesc așa. Cu povara pierderii ei. Am vrut să mă ucid de nenumărate ori, dar chipul ei mi-a apărut în minte de fiecare dată. Merita să îi fac asta? Sacrificiul ei să fi fost în van?</p>
+<p>&nbsp;&nbsp;&nbsp;Clatin neputincioasă din cap.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am trăit. Am încercat să mă vindec și să trăiesc pentru amândoi. La șase luni după înmormântare am primit de la părinții ei o scrisoare.</p>
+<p>&nbsp;&nbsp;&nbsp;Scoate din buzunar o bucată gălbenită de timp și durere. Mi-o întinde încet. O deschid ezitant și încep să parcurg scrisul așezat și stilat:</p>
+<p>&nbsp;&nbsp;&nbsp;Dragul meu iubit,</p>
+
+<p>&nbsp;&nbsp;&nbsp;Onest sper să primești această scrisoare fără să o întâmpini cu lacrimi. Să citești aceste rânduri și să zâmbești. Să mă auzi în mintea ta și să îmi simți mâna pe umărul tău.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Am decis cu greu să îți scriu, pentru că știam că nu sunt pregătită să îți spun cândva „la revedere”. Nici acum, nici peste ani când urma să îmbătrânim. Nu știu ce ne așteaptă, dar știu că nu mi-e frică. Dacă voi supraviețui sau nu, e o incertitudine, dar nu regret o clipă alegerea mea. Sunt pregătită să lupt cu orice, deoarece știu că te am lângă mine — în suflet.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Nu vreau să mă urăști, pentru că am decis fără să te întreb, dar știu că tu ai fi făcut întocmai dacă eu eram cea care avea buzele reci. Doar nu te-ai gândit că te pot lăsa așa! Nu mai știi? Ne-am jurat iubire și credință în fața lunii. Ar fi o trădare din partea mea să nu îți dau acest ultim sărut. Luna nu m-ar mai fi luminat niciodată.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Incertitudinea mă îndeamnă să scriu această scrisoare, dar iubirea mea pentru tine e o certitudine, pe care am simțit-o din acea seară de toamnă. Te iubesc pentru tot ceea ce reprezinți, te iubesc pentru fiecare sărut sau îmbrățișare, pentru fiecare dans sau respirație caldă pe pielea mea. Te iubesc pentru fiecare floare și cuvânt. Te iubesc pentru fiecare cântec fredonat. Și iubitule, ce am mai cântat! După cum mi-ai zis în repetate rânduri, dansul și cântecul sunt viață, iar viața este reprezentată de noi, iar noi de iubirea noastră. Iar eu sunt a ta, întru-totul.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Te implor, să nu regreți o secundă nimic, pentru că eu categoric nu o fac! Poate regret că nu ți-am spus mai des cât te iubesc și că nu te-am strâns mai tare în brațe, dar nu regret că te-am privit în ochi în acea noapte, că ți-am spus numele meu, că te-am sărutat și iubit.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Mulțumesc, mulțumesc că mi-ai arătat că viața merită trăită cu cât mai mult cu putință. Că undeva în viața aceasta există cineva pentru care ai renunța la orice, cineva care te face să simți fiori și care face dintr-un sărut să dispară tot. Cineva cu care merită să dansezi și să cânți ca un nebun, căruia merită să îți dai inima. Care merită tot și încă puțin.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Știu că niciodată nu ar fi fost suficient să îți scriu, dar știu de asemenea că lucrurile frumoase se termină repede. Poate că povestea noastră s-a încheiat devreme, dar știu că a meritat din plin și că am fost binecuvântați că ne-am întâlnit. Iar dacă eu plec pentru o vreme, te implor: trăiește-ți viața, nu o lăsa să treacă pe lângă tine dragule, pentru că trece așa de repede! Dansează iar, cântă iar și iubește iar! Meriți din plin. Dacă această scrisoare ajunge la tine, înseamnă că așa e cel mai bine. Nimic nu e întâmplător. Cum nici dragostea noastră nu a fost. Chiar dacă nu mai sunt fizic lângă tine, voi fi mereu în inima ta.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Cu dragoste veșnică,</p>
+<p>&nbsp;&nbsp;&nbsp;a ta Loren.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Mâinile îmi tremurau, iar lacrimile îmi împăienjenau vederea. I-am întins scrisoarea hohotind de emoții.</p>
+<p>&nbsp;&nbsp;&nbsp;-Am făcut întocmai domnișoară, am iubit iar, am dansat și am cântat, dar nu a fost ca prima oară. Am copii, am avut soție și o viață plină de iubire, iar ea, Loren, s-a ținut de promisiune și a fost totdeauna cu mine. Am simțit. Am simțit-o!</p>
+
+<p>&nbsp;&nbsp;&nbsp;Stăm în liniște mult timp, momente în care doar contemplăm. Bătrânelul se pregătește să plece.</p>
+<p>&nbsp;&nbsp;&nbsp;-Îmi pare atât de rău! șoptesc.</p>
+<p>&nbsp;&nbsp;&nbsp;-N-ai de ce, spune făcând un gest afectat cu mâna. Nu regret nimic!</p>
+
+<p>&nbsp;&nbsp;&nbsp;Atât de multă durere. A pierdut tot. Bunicul meu a pierdut prima iubire într-un mod atât de crud!</p>
+<p>&nbsp;&nbsp;&nbsp;-Cum? mă încrunt eu.</p>
+
+<p>&nbsp;&nbsp;&nbsp;Face doi pași, apoi mă privește în ochi când îmi spune ultimele cuvinte înainte de a intra în azil și să dispară:</p>
+<p>&nbsp;&nbsp;&nbsp;-Domnișoară, spune, dacă regreți iubirea înseamnă că nu a fost iubire.</p>       
+    </div>
+
+   
+
+</body>
+</html>
